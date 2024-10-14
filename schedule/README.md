@@ -1,5 +1,8 @@
 ## Workshop Outline
 
+### Dataset
+A trio from the [Genome in a Bottle consortium (GIAB)](https://github.com/genome-in-a-bottle/giab_data_indexes)
+
 | Format |  Topic  | Materials | Description |
 |:-----------:|:----------:|:--------:|:--------:|
 | Lecture | [Workshop Introduction](../lectures/workshop_intro_slides.pdf) | Reuse with some tweaks | A short introduction to the workshop|
