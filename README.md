@@ -18,16 +18,11 @@ This workshop series is designed for users with a background in the fundamentals
 
 ### Learning Objectives
 
-- Evaluate QC metrics for variant calling
-- Call variants using GATK
-- Filter variants to retain only high-quality variant calls
-- Annotate variants using SnpEff and dbSNP
-- Prioritize variants by their impact
-- Visualize variants in IGV
-- Implement cBioPortal to analyze variants
+* ..
+* .
 
 ### Lessons
-* [Workshop schedule ()
+* [Workshop schedule]()
 * [Self-learning]()
 
 ### Installation Requirements
